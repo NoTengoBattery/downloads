@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "architecture": "mipsel_24kc",
+  "packages": {
+    "modemdata": "20260822-r1"
+  }
+}

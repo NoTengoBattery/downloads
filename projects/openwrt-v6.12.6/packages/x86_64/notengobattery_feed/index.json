@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "architecture": "x86_64",
+  "packages": {
+    "btrfs-snapshots": "1.0.2-r0",
+    "compressed-memory": "1.1.0-r0",
+    "kopia": "0.23.1-r1",
+    "luci-app-airoha-recovery": "1.0.0-r3",
+    "luci-app-compressed-memory": "26.112.11247~2b87904",
+    "luci-app-mlo": "26.243.77865~8f94d10",
+    "luci-app-wifi7": "1.0.0-r20260502",
+    "nano-hl": "9.2-r0",
+    "notengobattery-scripts": "1.1.0-r1",
+    "swap-zram": "1.1.0-r0",
+    "swap-zswap": "1.1.0-r0"
+  }
+}

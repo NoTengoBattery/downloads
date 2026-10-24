@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "architecture": "mipsel_24kc",
+  "packages": {
+    "luci-app-qfirehose": "2.1.0-r1",
+    "qfirehose": "1.4.21-r1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "architecture": "mipsel_24kc",
+  "packages": {
+    "luci-app-modemdata": "1.0.32-r20260709"
+  }
+}
